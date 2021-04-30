@@ -1,0 +1,2992 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 0.8in
+\rightmargin 1in
+\bottommargin 0.8in
+\headheight 0cm
+\headsep 0cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size larger
+CSCE 221 Cover Page
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size larger
+First Name
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Rong
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Last Name 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Xu
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+UIN
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+928009312
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size larger
+User Name 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Abby-xu
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+E-mail address
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+abby.xu915@gmail.com
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Please list all sources in the table below including web pages which you
+ used to solve or implement the current homework.
+ If you fail to cite sources you can get a lower number of points or even
+ zero, read more Aggie Honor System Office 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://aggiehonor.tamu.edu/"
+literal "false"
+
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Type of sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+People
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Web pages (provide URL) 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Printed material
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Other Sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+I certify that I have listed all the sources that I used to develop the
+ solutions/codes to the submitted work.
+\end_layout
+
+\begin_layout Quotation
+“On my honor as an Aggie, I have neither given nor received any unauthorized
+ help on this academic work.” 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Your Name 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Rong
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Xu
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+2020/10/10
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+Homework 2
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+due October 16 at 11:59 pm to eCampus
+\end_layout
+
+\begin_layout Enumerate
+(20 points) Given two sorted lists, L1 and L2, write an efficient C++ code
+ to compute L1 ∩ L2 using only the basic STL list operations.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Provide evidence of testing: submit your code
+\begin_inset listings
+lstparams "language={C++},basicstyle={\scriptsize\ttfamily}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+#include <iostream> 
+\end_layout
+
+\begin_layout Plain Layout
+
+#include <list>
+\end_layout
+
+\begin_layout Plain Layout
+
+using namespace std;
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+list<int> inter_list(list<int> L1, 
+\end_layout
+
+\begin_layout Plain Layout
+
+list<int> L2) { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	if(L1.empty() || L2.empty()) 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		std::exit(-1); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	L1.merge(L2); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	list<int> return_list; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	for(list<int>::iterator it = L1.begin(); it != L1.end(); it++) { 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		if(*it == *--it)  			
+\end_layout
+
+\begin_layout Plain Layout
+
+			return_list.push_back(*it); 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		++it; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	} 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	return return_list; 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int main() {  	
+\end_layout
+
+\begin_layout Plain Layout
+
+int A1[]={1,2,3,4,5,6};  	
+\end_layout
+
+\begin_layout Plain Layout
+
+int A2[]={2,4,6,8,9,10};  	
+\end_layout
+
+\begin_layout Plain Layout
+
+list<int> iL1(A1, A1+6);  	
+\end_layout
+
+\begin_layout Plain Layout
+
+list<int> iL2(A2, A2+6);  	
+\end_layout
+
+\begin_layout Plain Layout
+
+list<int> iL3 = inter_list(iL1, iL2); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+list<int>::iterator it = iL3.begin();  	
+\end_layout
+
+\begin_layout Plain Layout
+
+while(it != iL3.end()) {  		
+\end_layout
+
+\begin_layout Plain Layout
+
+	cout << *it++ << " ";  	
+\end_layout
+
+\begin_layout Plain Layout
+
+} 	
+\end_layout
+
+\begin_layout Plain Layout
+
+system("pause");  	
+\end_layout
+
+\begin_layout Plain Layout
+
+return 0;  
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/abby/Desktop/Screen Shot 2020-10-13 at 10.21.30 PM.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+What is the running time of your algorithm?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+From the official website, the running time of function std::merge() is
+ O(n).
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+https://en.cppreference.com/w/cpp/algorithm/merge
+\end_layout
+
+\begin_layout Enumerate
+n is the number of elements of List 1.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The big-o of for loop is O(n+k).
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+n is the number of elements of List 1
+\end_layout
+
+\begin_layout Enumerate
+k is the number of elements of List 2
+\end_layout
+
+\begin_layout Enumerate
+In this case, the list L1 was merged by List 2.
+ Thus the List 1 now has (n + k) element.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Base of the statements above, the running time is O(n) + O(n + k) = O(n
+ + k)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(20 points) Write a C++ recursive function that counts the number of nodes
+ in a singly linked list.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Test your function using different singly linked lists.
+ Include your code.
+\begin_inset listings
+lstparams "language={C++},basicstyle={\scriptsize\ttfamily}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+#include<iostream> using namespace std;
+\end_layout
+
+\begin_layout Plain Layout
+
+class Node { 
+\end_layout
+
+\begin_layout Plain Layout
+
+	public:     
+\end_layout
+
+\begin_layout Plain Layout
+
+		int data;     
+\end_layout
+
+\begin_layout Plain Layout
+
+		Node *next;     
+\end_layout
+
+\begin_layout Plain Layout
+
+		Node(int da = 0, Node *p = NULL) {  
+\end_layout
+
+\begin_layout Plain Layout
+
+			this -> data = da;         
+\end_layout
+
+\begin_layout Plain Layout
+
+			this -> next = p;     
+\end_layout
+
+\begin_layout Plain Layout
+
+		} 
+\end_layout
+
+\begin_layout Plain Layout
+
+};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+class List{ 
+\end_layout
+
+\begin_layout Plain Layout
+
+	private: 	
+\end_layout
+
+\begin_layout Plain Layout
+
+		Node *head,*tail; public: 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	List(){head = tail = NULL;}; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	~List(){delete head; delete tail;}; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	void print() { 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		Node *p = head; 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		while (p != NULL) { 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			cout << p -> data << " 
+\backslash
+a"; 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			p = p->next; 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		} 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		cout << endl; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	}; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	void Insert(int da) { 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		if (head == NULL) { 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			head = tail = new Node(da); 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			head -> next = NULL; 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			tail -> next = NULL; 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		} else { 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			Node *p = new Node(da); 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			tail -> next = p; 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			tail = p; 	        
+\end_layout
+
+\begin_layout Plain Layout
+
+			tail -> next = NULL; 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+		} 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	}; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	Node* first() {return head;} 
+\end_layout
+
+\begin_layout Plain Layout
+
+};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int count_node(Node* n) { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	if(n == NULL) 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		return 0; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	else 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		return 1 + count_node(n -> next); 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int main() {     
+\end_layout
+
+\begin_layout Plain Layout
+
+	List l1;     
+\end_layout
+
+\begin_layout Plain Layout
+
+	l1.Insert(1);l1.Insert(2);l1.Insert(3);l1.Insert(4);     
+\end_layout
+
+\begin_layout Plain Layout
+
+	l1.Insert(5);l1.Insert(6);l1.Insert(7);     
+\end_layout
+
+\begin_layout Plain Layout
+
+	l1.print();     
+\end_layout
+
+\begin_layout Plain Layout
+
+	cout << "the number of nodes: " << count_node(l1.first()) << endl;     
+\end_layout
+
+\begin_layout Plain Layout
+
+	system("pause"); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	return 0; 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/abby/Desktop/Screen Shot 2020-10-13 at 10.21.42 PM.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Write a recurrence relation that represents your algorithm.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Base case: When n is a null pointer, return 0.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+T(0) = c1 for some constant c1
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Recursive case: When n is not a null pointer.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+T(n) = c2 + T(n - 1) for some constant c2
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Solve the recurrence relation using the iterating or recursive tree method
+ to obtain the running time of the algorithm in Big-O notation.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If we knew T(n - 1), we could solve T(n).
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $T(n)=T(n-1)+c2=T(n-2)+c2+c2=T(n-2)+2c2=T(n-3)+3c2=...=T(n-k)+kc2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+So we have 
+\begin_inset Formula $T(n)=T(n-k)+k*c2$
+\end_inset
+
+ for all k
+\end_layout
+
+\begin_layout Enumerate
+If we set k = n, we have 
+\begin_inset Formula $T(n)=T(n-n)+nc2=T(0)+nc2=c1+nc2=O(n)$
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+(20 points) Write a C++ recursive function that finds the maximum value
+ in an array (or vector) of integers 
+\emph on
+without
+\emph default
+ using any loops.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Test your function using different input arrays.
+ Include the code.
+\begin_inset listings
+lstparams "language={C++},basicstyle={\scriptsize\ttfamily}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+#include<iostream> 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int find_max(int A[], int n) { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	if(n == 1) 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		return A[0]; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	return std::max(A[n - 1], find_max(A, n - 1)); 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int main() { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+int A[] = {1,3,4,6,7,8,9,45,34,54}; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+int n = sizeof(A) / sizeof(A[0]); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+for (int i = 0; i < 10; i++) 		
+\end_layout
+
+\begin_layout Plain Layout
+
+	std::cout << A[i] << " "; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+std::cout << "
+\backslash
+nthe max value is: " << find_max(A, n) << std::endl; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+std::system("pause"); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+return 0; 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/abby/Desktop/Screen Shot 2020-10-13 at 10.21.54 PM.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Write a recurrence relation that represents your algorithm.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Base case: When n reach to the first element in the array/vector.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+T(0) = c1 for some constant c1
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Recursive case: Fund the max element when not reach to the first element..
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+T(n) = c2 + T(n - 1) for some constant c2
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Solve the recurrence relation and obtain the running time of the algorithm
+ in Big-O notation.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If we knew T(n - 1), we could solve T(n).
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $T(n)=T(n-1)+c2=T(n-2)+c2+c2=T(n-2)+2c2=T(n-3)+3c2=...=T(n-k)+kc2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+So we have 
+\begin_inset Formula $T(n)=T(n-k)+k*c2$
+\end_inset
+
+ for all k
+\end_layout
+
+\begin_layout Enumerate
+If we set k = n, we have 
+\begin_inset Formula $T(n)=T(n-n)+nc2=T(0)+nc2=c1+nc2=O(n)$
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+(20 points) What is the best, worst and average running time of quick sort
+ algorithm? 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Provide recurrence relations and their solutions.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Best case:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Recurrence Relation: 
+\begin_inset Formula $T(n)=T(n/2)+T(n/2)+O(n)$
+\end_inset
+
+ and 
+\begin_inset Formula $T(1)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Solve it by iteration method:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{align*}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+T(n)& =2T(n/2)+O(n)
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=2(2T(n/4)+O(n/2))+O(n/2))+O(n)
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=4T(n/4)+2*O(n)
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=...
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=2^{k}T(n/2^{k})+K*O(n)
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=O(nlog_{2}n)
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{align*}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Worst case:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Recurrence Relation: 
+\begin_inset Formula $T(n)=T(n-1)+T(1)+n=T(n-1)+n$
+\end_inset
+
+ and 
+\begin_inset Formula $T(1)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Solve it by iteration method:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{align*}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+T(n)& = T(n-1)+n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=T(n-2)+(n-1)+n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=T(n-3)+(n-2)+(n-1)+n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=...
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=T(n-k+!)+(n-k+2)+...+(n-1)+n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=...
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=T(1)+2+3+...+(n-1)+n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=frac{n(n+1)}{2}-1
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+&=O(n^2)
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{align*}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Average case:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Recureence Relation: 
+\begin_inset Formula $T(n)=T(cn)+T((1-c)n)+n$
+\end_inset
+
+ and 
+\begin_inset Formula $T(1)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Solve it by interation method: Let hl be the height of left subtree and
+ hr be the hright of right subtree.
+ Notice that hr > hl.
+\end_layout
+
+\begin_layout Enumerate
+solve for hl and hr:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{align*}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+c^{h_L} = 1/n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+h_L=-log_ch
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+h_L=log_{1/c}h
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+(1-c)^{h_R}=1/n
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+h_R=-log_{(1-c)}h
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+h_R=log_{1/(1-c)}h
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{align*}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+The big-o is 
+\begin_inset Formula $O(nlog_{2}n)$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Provide arrangement of the input and the selection of the pivot point for
+ each case.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+For the best case: the input has already been sorted and the pivot is just
+ the middlest element in the list.
+\end_layout
+
+\begin_layout Enumerate
+For the average case: we usually choose the pivot in the middle or just
+ choose the random index of the pivot.
+\end_layout
+
+\begin_layout Enumerate
+For the worst case: the input list is reversed and we start to choose the
+ pivot at the beginning of the list until the last one.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+(20 points) Write a C++ function that counts the total number of nodes with
+ two children in a binary tree (do not count nodes with one or none child).
+ You can use a STL container if you need to use an additional data structure
+ to solve this problem.
+ Use the big-O notation to classify your algorithm.
+ Include your code.
+\begin_inset listings
+lstparams "language={C++},basicstyle={\scriptsize\ttfamily}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+#include <iostream> 
+\end_layout
+
+\begin_layout Plain Layout
+
+#include <vector> 
+\end_layout
+
+\begin_layout Plain Layout
+
+using namespace std;
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+std::vector<int> nodes;
+\end_layout
+
+\begin_layout Plain Layout
+
+struct BiTNode { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	int data; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	struct BiTNode* lchild; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	struct BiTNode* rchild; 
+\end_layout
+
+\begin_layout Plain Layout
+
+};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+void create_tree(BiTNode* &tree) {     
+\end_layout
+
+\begin_layout Plain Layout
+
+	int data;cin >> data;     
+\end_layout
+
+\begin_layout Plain Layout
+
+	if (data != '
+\backslash
+n') {         
+\end_layout
+
+\begin_layout Plain Layout
+
+		if (data == -1) {             
+\end_layout
+
+\begin_layout Plain Layout
+
+			tree = nullptr;         
+\end_layout
+
+\begin_layout Plain Layout
+
+		} else {             
+\end_layout
+
+\begin_layout Plain Layout
+
+			tree = new BiTNode;             
+\end_layout
+
+\begin_layout Plain Layout
+
+			tree->data = data;             
+\end_layout
+
+\begin_layout Plain Layout
+
+			create_tree(tree->lchild);             
+\end_layout
+
+\begin_layout Plain Layout
+
+			create_tree(tree->rchild);         
+\end_layout
+
+\begin_layout Plain Layout
+
+		}     
+\end_layout
+
+\begin_layout Plain Layout
+
+	} 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+void pre_order_traverse(BiTNode* &tree) {     
+\end_layout
+
+\begin_layout Plain Layout
+
+	if (tree) {         
+\end_layout
+
+\begin_layout Plain Layout
+
+		cout << tree->data << " ";         
+\end_layout
+
+\begin_layout Plain Layout
+
+		pre_order_traverse(tree->lchild);         		
+\end_layout
+
+\begin_layout Plain Layout
+
+		pre_order_traverse(tree->rchild);     
+\end_layout
+
+\begin_layout Plain Layout
+
+	} 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+void count_node(BiTNode* &tree) { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	cout << "data: " << tree -> data; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	if(tree -> lchild != nullptr && tree -> rchild != nullptr) 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		nodes.push_back(tree -> data); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	if(tree -> lchild == nullptr && tree -> rchild == nullptr) 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		return; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	count_node(tree->lchild); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	count_node(tree->rchild); 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int main() {
+\end_layout
+
+\begin_layout Plain Layout
+
+    BiTNode* T;     
+\end_layout
+
+\begin_layout Plain Layout
+
+	create_tree(T);      
+\end_layout
+
+\begin_layout Plain Layout
+
+	/*     input here is:     2 3 5 -1 -1 6 -1 -1 4 -1 -1          
+\end_layout
+
+\begin_layout Plain Layout
+
+	     2 	    
+\end_layout
+
+\begin_layout Plain Layout
+
+	   /   
+\backslash
+ 	   
+\end_layout
+
+\begin_layout Plain Layout
+
+	  3     4 	  
+\end_layout
+
+\begin_layout Plain Layout
+
+	 / 
+\backslash
+ 	 
+\end_layout
+
+\begin_layout Plain Layout
+
+	5   6            */     
+\end_layout
+
+\begin_layout Plain Layout
+
+pre_order_traverse(T); //2, 3, 5, 6, 4     
+\end_layout
+
+\begin_layout Plain Layout
+
+count_node(T);     
+\end_layout
+
+\begin_layout Plain Layout
+
+cout << "
+\backslash
+nthe nodes are: " <<endl;     
+\end_layout
+
+\begin_layout Plain Layout
+
+for (int j = 0; j < nodes.size(); j++)      	
+\end_layout
+
+\begin_layout Plain Layout
+
+	cout << nodes[j] << " ";     
+\end_layout
+
+\begin_layout Plain Layout
+
+cout << "
+\backslash
+nthe number of node with two children is: " << nodes.size() << endl; 	'
+\end_layout
+
+\begin_layout Plain Layout
+
+system("pause"); 	
+\end_layout
+
+\begin_layout Plain Layout
+
+return 0; 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/abby/Desktop/Screen Shot 2020-10-13 at 10.22.58 PM.png
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I think the the big-o of my algorithm is 
+\begin_inset Formula $O(log_{2}n)$
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document
